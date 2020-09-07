@@ -1,6 +1,6 @@
 # pinfo
 
-An app to capture anything
+An app to pin any information
 
 ## Getting Started
 
